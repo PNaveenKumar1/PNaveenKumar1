@@ -1,7 +1,6 @@
 # 👋Hi, I'm Pallekonda Naveen Kumar
 
-👀 I’m interested in learning and building Machine Learning models for real wprld problems.  
-I'm also passionate about problem solving.
+👀 I’m interested in learning and building Machine Learning models for real world problems.  
 
 🌱 I’m pursuing my M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
 
