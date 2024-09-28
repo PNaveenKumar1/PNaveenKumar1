@@ -1,9 +1,10 @@
 # 👋Hi, I'm Pallekonda Naveen Kumar
-I'm currently pursuing my M.Tech in Computer Science at IISC Bangalore.My research focus on Stock Market Price Predictions using Temporal Semantic Knowledge Graphs, Creating Architectures for the event predictions tasks.
+
+🌱 I’m pursuing my M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
 
 👀 I’m interested in learning and building Machine Learning models for real world problems.  
 
-🌱 I’m pursuing my M.Tech in Computer Science and Automation Department from the Indian Institute of Science, Bangalore.
+My research focus on Stock Market Price Predictions using Temporal Semantic Knowledge Graphs, Creating Architectures for the event predictions tasks.
 
 I solve problems on DSA on the Leetcode platform. Check out my profile here: [Leetcode](https://leetcode.com/u/cracknaveen/)
 
